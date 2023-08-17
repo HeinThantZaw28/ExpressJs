@@ -1,0 +1,2 @@
+        <a href="/cart-item-decrease-quantity/<%= p.id %>">-</a>
+        <a href="/cart-item-increase-quantity/<%= p.id %>">+</a>
