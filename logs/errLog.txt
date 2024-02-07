@@ -1,0 +1,14 @@
+20231129	10:59:33	1532e071-cb55-4880-8358-c6473e6fea08	Error:Not Allowed By CORS
+20231129	11:36:28	9338488d-a41f-4c4d-897d-08de648b81f6	TypeError:req.accepted is not a function
+20231129	13:41:27	620a17ac-c99e-4ee3-8a47-0aee4d08f8da	Error:ENOENT: no such file or directory, stat 'C:\Work\Programming\nodejs\dave gray\expressjs\express_01\routes\views\index.html'
+20231129	13:41:46	8e5923cb-e218-4060-b456-c3bfec9d0f3c	Error:ENOENT: no such file or directory, stat 'C:\Work\Programming\nodejs\dave gray\expressjs\express_01\routes\views\index.html'
+20231129	14:08:33	9f0bd83f-8df0-477c-a9ff-5fcf067e95ff	SyntaxError:Unexpected token H in JSON at position 13
+20231129	14:34:29	2e9df23c-8e16-4fab-ae46-c8e99d81396b	ReferenceError:path is not defined
+20231129	14:34:55	7214f8fd-1fd3-4297-8d8d-cad2a6208c65	ReferenceError:path is not defined
+20231129	14:34:59	5538b89f-d3c1-4f74-b678-4101fefa1f19	ReferenceError:path is not defined
+20231130	15:10:04	21e8ec49-1da6-4b0b-a251-156b390de84d	Error:Cannot set headers after they are sent to the client
+20231204	13:48:34	449dddfa-faf7-4752-9a42-0303d6af1481	TypeError:Cannot read properties of undefined (reading 'startsWith')
+20240102	16:41:31	1ff0d277-c831-41cd-a9a2-9cc9cd3b7447	Error:Not Allowed By CORS
+20240102	16:41:39	bc160cc6-c557-42cc-8dfe-55b313095334	Error:Not Allowed By CORS
+20240102	16:41:39	475ebd6b-373f-450c-8963-68c85fb7c8be	Error:Not Allowed By CORS
+20240102	16:41:40	07c9c382-d07e-46fc-9efe-edf28097afe6	Error:Not Allowed By CORS
